@@ -1,0 +1,29 @@
+
+body{
+    background:#7d7075;
+}
+p{
+    position:absolute;
+    top:20%;
+    left:40%;
+    font-weight: bold;
+    color:red;
+    font-size: 2rem;
+}
+#container{
+    margin:0;
+    position:absolute;
+    top:50%;
+    left:50%;
+    color:white;
+    transform: translate(-50%,-50%);
+   display:flex;
+   flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+    background-color: black;
+}
+.mystyle{
+    margin:0;
+    background-color: red;
+}
