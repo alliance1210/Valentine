@@ -121,7 +121,7 @@ function flipcard(){
                 alert("You completed in "+ tries+" moves");
             }
             
-        },400)
+        },500)
     }
 }
 })
